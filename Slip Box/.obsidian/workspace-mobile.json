@@ -11,10 +11,14 @@
             "id": "8df5262a4b67b9bf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Non-technical knowledge/Books/The way to Love life - Meditations for life by antheni the mello.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The way to Love life - Meditations for life by antheni the mello"
             }
           }
         ]
@@ -150,6 +154,7 @@
   },
   "active": "8df5262a4b67b9bf",
   "lastOpenFiles": [
+    "Be humble.md",
     "Non-technical knowledge/My thoughts and Ideas/Organizing Information Note.md",
     "Non-technical knowledge/My thoughts and Ideas/The girl - Sanjeevani.md",
     "Non-technical knowledge/My thoughts and Ideas/Girl - Women.md",
@@ -176,7 +181,6 @@
     "Non-technical knowledge/My thoughts and Ideas/What you talk yourself - That things you will see around.md",
     "Technical Things/Work at MCX - Credentials.md",
     "Non-technical knowledge/My thoughts and Ideas/Dil se connection.md",
-    "Non-technical knowledge/Books/Shivaji The Management Guru.md",
     "Attachments/Screenshot_2025-08-06-00-42-23-34_439a3fec0400f8974d35eed09a31f914.jpg",
     "Attachments/Screenshot_2025-08-06-00-33-54-68_439a3fec0400f8974d35eed09a31f914.jpg",
     "Attachments/OPENSHIFT.v4.pdf",
