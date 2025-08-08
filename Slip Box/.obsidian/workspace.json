@@ -21,10 +21,14 @@
             "id": "1899cb7ccda32e43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "configure autosync remote - deskop -mobile.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "configure autosync remote - deskop -mobile"
             }
           }
         ],
@@ -174,6 +178,9 @@
   },
   "active": "1899cb7ccda32e43",
   "lastOpenFiles": [
+    "a",
+    "Be humble.md",
+    "DrawNote_Untitled_2508080207018.png",
     "configure autosync remote - deskop -mobile.md",
     "Technical Things/OCP Exam and Explore deeply/first practice OCP on notepad.md",
     "Technical Things/OCP Exam and Explore deeply/OCP Examination.md",
