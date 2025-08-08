@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "sanj",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,7 +82,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "6c64e3b5a7a1cdc7",
@@ -150,6 +150,7 @@
   },
   "active": "8df5262a4b67b9bf",
   "lastOpenFiles": [
+    "Non-technical knowledge/My thoughts and Ideas/Organizing Information Note.md",
     "Non-technical knowledge/My thoughts and Ideas/The girl - Sanjeevani.md",
     "Non-technical knowledge/My thoughts and Ideas/Girl - Women.md",
     "Non-technical knowledge/My thoughts and Ideas/Freedom - Why to save or invest money.md",
@@ -173,7 +174,6 @@
     "Non-technical knowledge/Books/Essentialism - The Disciplined Pursuit of Less by Greg McKeown.md",
     "Non-technical knowledge/Books/Getting things done- book summary.md",
     "Non-technical knowledge/My thoughts and Ideas/What you talk yourself - That things you will see around.md",
-    "Non-technical knowledge/My thoughts and Ideas/Organizing Information Note.md",
     "Technical Things/Work at MCX - Credentials.md",
     "Non-technical knowledge/My thoughts and Ideas/Dil se connection.md",
     "Non-technical knowledge/Books/Shivaji The Management Guru.md",
