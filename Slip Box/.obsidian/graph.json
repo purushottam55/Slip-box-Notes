@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "path:\"Non-technical knowledge\"  ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -14,9 +14,9 @@
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.72037422037422,
-  "repelStrength": 9.08523908523909,
+  "repelStrength": 13.9085239085239,
   "linkStrength": 0.636842105263158,
   "linkDistance": 68,
-  "scale": 1.0249926274509944,
+  "scale": 0.43514234343332187,
   "close": false
 }
