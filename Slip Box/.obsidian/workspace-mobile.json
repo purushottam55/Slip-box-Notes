@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "a2d3550f332d0105",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b7deaf87c13114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8df5262a4b67b9bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6de3ddcaeecd16dc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac5af48c84963dd9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "73940e0a5a506cd4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "sanj",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": true,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "086c839fc05c8580",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "alphabetical",
+            "useHierarchy": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1dbdd1117d0b5096",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "6c64e3b5a7a1cdc7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a75b4f89b564077c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Bakis mindset.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3f4dbda50a27610e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "cebc0237a3b47e4a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Bakis mindset.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "fit:Fit Sync": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8df5262a4b67b9bf",
+  "lastOpenFiles": [
+    "Non-technical knowledge/My thoughts and Ideas/The girl - Sanjeevani.md",
+    "Non-technical knowledge/My thoughts and Ideas/Girl - Women.md",
+    "Non-technical knowledge/My thoughts and Ideas/Freedom - Why to save or invest money.md",
+    "Non-technical knowledge/My thoughts and Ideas/Facts and Figures and Storing ideas.md",
+    "Non-technical knowledge/My thoughts and Ideas/Affirm eyes and hairs.md",
+    "Non-technical knowledge/My thoughts and Ideas/What you Outside.md",
+    "Non-technical knowledge/My thoughts and Ideas/Thinking vs feeling.md",
+    "Non-technical knowledge/My thoughts and Ideas/Learning from people.md",
+    "Non-technical knowledge/My thoughts and Ideas/Knowledge that you have.md",
+    "DrawNote_Untitled_2508080207018.png",
+    "Non-technical knowledge/My thoughts and Ideas/Explore - Financial independence and fun.md",
+    "Non-technical knowledge/My thoughts and Ideas/leaving prodevans Note - what if.md",
+    "Non-technical knowledge/My thoughts and Ideas/You Tube 2022.md",
+    "Non-technical knowledge/My thoughts and Ideas/toungTwister.md",
+    "Non-technical knowledge/My thoughts and Ideas/Thats how use power of brain.md",
+    "Non-technical knowledge/Utilize time Efficiently 1.md",
+    "Body and health/Care of eyes.md",
+    "Technical Things/OCP Exam and Explore deeply/Ocp routes.md",
+    "Technical Things/OCP Exam and Explore deeply/OCP Examination - 🔗Dumps.md",
+    "Technical Things/OCP Exam and Explore deeply/Ocp 3hour - Challenge at MCX.md",
+    "Non-technical knowledge/Books/Essentialism - The Disciplined Pursuit of Less by Greg McKeown.md",
+    "Non-technical knowledge/Books/Getting things done- book summary.md",
+    "Non-technical knowledge/My thoughts and Ideas/What you talk yourself - That things you will see around.md",
+    "Non-technical knowledge/My thoughts and Ideas/Organizing Information Note.md",
+    "Technical Things/Work at MCX - Credentials.md",
+    "Non-technical knowledge/My thoughts and Ideas/Dil se connection.md",
+    "Non-technical knowledge/Books/Shivaji The Management Guru.md",
+    "Attachments/Screenshot_2025-08-06-00-42-23-34_439a3fec0400f8974d35eed09a31f914.jpg",
+    "Attachments/Screenshot_2025-08-06-00-33-54-68_439a3fec0400f8974d35eed09a31f914.jpg",
+    "Attachments/OPENSHIFT.v4.pdf",
+    "New Notes.canvas",
+    "OPENSHIFT.v4.pdf",
+    "EX-280 QESTIONS SETS -.docx",
+    "Non-technical knowledge",
+    "VID20250731105549.mp4",
+    "Screenshot_2025-07-31-14-28-34-16_944a2809ea1b4cda6ef12d1db9048ed3.jpg",
+    "Technical Things"
+  ]
+}
