@@ -482,3 +482,37 @@ remote:
 To https://github.com/purushottam55/Slip-box-Notes.git
  ! [remote rejected] main -> main (push declined due to repository rule violations)
 error: failed to push some refs to 'https://github.com/purushottam55/Slip-box-Notes.git'
+remote: error: GH013: Repository rule violations found for refs/heads/main.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       —— GitHub Personal Access Token ——————————————————————        
+remote:        locations:        
+remote:          - commit: 53bc7b8dd9c707e44b5564f3f8b7bf43bc154c1c        
+remote:            path: Slip Box/configure autosync remote - deskop -mobile.md:15        
+remote:          - commit: eca621682c42706248070b86435f08bbc7a536f6        
+remote:            path: Slip Box/configure autosync remote - deskop -mobile.md:15        
+remote:          - commit: f034354cbab868681e49a2681644932d9d98746d        
+remote:            path: Slip Box/configure autosync remote - deskop -mobile.md:20        
+remote:          - commit: a740abf651cd4954e4e3ea438ac3231e483f8393        
+remote:            path: Slip Box/configure autosync remote - deskop -mobile.md:21        
+remote:          - commit: ab0d5d94ae5a751e70db1bce8f4a46699038dcdd        
+remote:            path: Slip Box/configure autosync remote - deskop -mobile.md:24        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/purushottam55/Slip-box-Notes/security/secret-scanning/unblock-secret/310nCM8LTnHWeSMYdPIrQLpF5yx        
+remote:             
+remote: 
+remote: 
+To https://github.com/purushottam55/Slip-box-Notes.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/purushottam55/Slip-box-Notes.git'
