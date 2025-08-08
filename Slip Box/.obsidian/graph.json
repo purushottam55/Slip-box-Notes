@@ -1,22 +1,30 @@
 {
   "collapse-filter": false,
-  "search": "path:\"Non-technical knowledge\"  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [],
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#ocp  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.4497920997921,
+  "nodeSizeMultiplier": 2.77411642411642,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.72037422037422,
   "repelStrength": 13.9085239085239,
   "linkStrength": 0.636842105263158,
   "linkDistance": 68,
-  "scale": 0.9460241669699301,
+  "scale": 0.4748811225840242,
   "close": false
 }
