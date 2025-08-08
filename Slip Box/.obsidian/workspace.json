@@ -11,10 +11,14 @@
             "id": "1d94a28d53a98531",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Be humble.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Be humble"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "be hu",
+                "query": "be humb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba33eede408a805a",
+  "active": "1d94a28d53a98531",
   "lastOpenFiles": [
     "MyNote.md",
     "Non-technical knowledge/My thoughts and Ideas/Selftalk walk way of understanding and power.md",
