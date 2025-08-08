@@ -11,10 +11,14 @@
             "id": "0dba5a03c18819e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Configure Auto sync.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Configure Auto sync"
             }
           }
         ]
