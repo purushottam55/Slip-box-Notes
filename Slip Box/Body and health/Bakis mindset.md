@@ -1,3 +1,4 @@
+#baki
 Bakis-style quotes to fuel your muscle training, inspired by the intense mindset of Baki Hanma and the series as a whole:
 
 

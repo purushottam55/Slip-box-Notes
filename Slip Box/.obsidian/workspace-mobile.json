@@ -11,14 +11,10 @@
             "id": "8df5262a4b67b9bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Non-technical knowledge/Books/The way to Love life - Meditations for life by antheni the mello.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The way to Love life - Meditations for life by antheni the mello"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -154,6 +150,9 @@
   },
   "active": "8df5262a4b67b9bf",
   "lastOpenFiles": [
+    "Non-technical knowledge/Books/The way to Love life - Meditations for life by antheni the mello.md",
+    "Body and health/Bakis mindset.md",
+    "Technical Things/B-tech Things.md",
     "Be humble.md",
     "Non-technical knowledge/My thoughts and Ideas/Organizing Information Note.md",
     "Non-technical knowledge/My thoughts and Ideas/The girl - Sanjeevani.md",
@@ -178,9 +177,6 @@
     "Technical Things/OCP Exam and Explore deeply/Ocp 3hour - Challenge at MCX.md",
     "Non-technical knowledge/Books/Essentialism - The Disciplined Pursuit of Less by Greg McKeown.md",
     "Non-technical knowledge/Books/Getting things done- book summary.md",
-    "Non-technical knowledge/My thoughts and Ideas/What you talk yourself - That things you will see around.md",
-    "Technical Things/Work at MCX - Credentials.md",
-    "Non-technical knowledge/My thoughts and Ideas/Dil se connection.md",
     "Attachments/Screenshot_2025-08-06-00-42-23-34_439a3fec0400f8974d35eed09a31f914.jpg",
     "Attachments/Screenshot_2025-08-06-00-33-54-68_439a3fec0400f8974d35eed09a31f914.jpg",
     "Attachments/OPENSHIFT.v4.pdf",
