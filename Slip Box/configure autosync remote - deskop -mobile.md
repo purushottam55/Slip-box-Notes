@@ -1,7 +1,12 @@
 
 # Prerequisite:
+pc and mob
 1) The system must be ubuntu, linux
-2)  git must be installed  ( apt install git ).
+2)  git must be installed  ( apt install git )
+
+bm
+
+
 
 -----
 
